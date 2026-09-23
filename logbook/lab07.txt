@@ -1,0 +1,5 @@
+LAB 7 LOGBOOK - <Aryan Khalse>
+SETUP: clang version clang-2100.3.34.2 python3 version Python 3.14.7
+T1: running hello.py created hello.py new files
+T1 prediction: ./hello.c will no exicute permission not present and python3 hello.c will not as 
+T1: ./hello.c failed because not permission to exicute ; python3 hello.c failed because it does start to read it but the code is written in c lang. and we are trying to run it as python.

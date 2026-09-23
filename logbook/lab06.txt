@@ -1,0 +1,3 @@
+LAB 6 LOGBOOK - Aryan.K - E26B07F0808
+SETUP: my working directory is /Users/aryanrahulkhalse/nst/labs/lab06-os-and-filesystem 
+T1 prediction: I think ls / will show files(excluding the hidden files) from the very root of enter computer system like core system folder.
